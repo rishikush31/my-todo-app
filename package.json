@@ -25,7 +25,7 @@
     "test": "fusion test",
     "build": "fusion build",
     "build-production": "fusion build --production",
-    "start": "fusion start -p $PORT"
+    "start": "fusion start"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
